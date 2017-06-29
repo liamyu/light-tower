@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">灯塔</string>
-    <string name="action_settings">设置</string>
+  <string name="app_name">灯塔</string>
+  <string name="action_settings">设置</string>
+  <string name="night_shift">夜灯模式</string>
+  <string name="on">开</string>
+  <string name="off">关</string>
 </resources>

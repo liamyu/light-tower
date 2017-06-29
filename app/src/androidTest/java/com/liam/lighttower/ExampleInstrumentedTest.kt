@@ -1,4 +1,4 @@
-package com.liam.lighttower.light_tower
+package com.liam.lighttower
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

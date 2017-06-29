@@ -1,0 +1,3 @@
+[submodule "icedtea"]
+	path = icedtea
+	url = https://github.com/liamyu/icedtea.git
